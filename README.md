@@ -18,4 +18,9 @@
    - Extracts text from the PDF using Tesseract OCR (Optical Character Recognition).
    - Validates the extracted texts.
    - Retrieves key texts from the extracted data.
-   - Returns the pro
+   - Returns the data.
+  
+   ##What i couldn't achieve.
+   
+**cross checking schools in a database. 
+**testing
